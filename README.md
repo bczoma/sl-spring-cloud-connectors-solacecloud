@@ -1,3 +1,3 @@
-# spring-cloud-solacecloud-connector
+# solace-spring-solacecloud-connector
 
 Prototype
